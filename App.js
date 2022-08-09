@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 const Employee = require('./Employee');
 const OUTPUT_DIR = path.resolve(__dirname, 'output');
-const outputPath = path.join(OUTPUT_DIR, 'team.htlm');
+const outputPath = path.join(OUTPUT_DIR, 'team.html');
 const teamMembers = [];
 
 const promptManager = () => {
