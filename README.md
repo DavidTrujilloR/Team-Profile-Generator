@@ -12,10 +12,6 @@ To install this app you will need to run npm install for the following dependenc
 3.	If you choose to add an engineer or an intern, you will be reprompted to the menu until you choose to end the application
 4.	Once you 
 
-## Walkthrough Video
-
-[Walkthrough Video](./assets/)
-
 ## GitHub
 
 Username: DavidTrujilloR
